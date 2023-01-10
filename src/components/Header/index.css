@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+
+  background-size: cover;
+}
+.logo {
+  height: 50px;
+  width: 200px;
+}
+.card-container {
+  display: flex;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #475569;
+  margin-right: 20px;
+}
+.button {
+  border: none;
+  border-radius: 8px;
+  background-color: #0967d2;
+  color: #ffffff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-right: 20px;
+}
